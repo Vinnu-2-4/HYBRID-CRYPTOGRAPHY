@@ -8,6 +8,7 @@ Asymmetric Algo -- RSA
 HYBRIDCRYPTOSYSTEDESIGN
  
 The device has been configured to function as follows:
+
 1.First the user is given a menu with three options.
 2.The three options contain different tasks of their own.
 3.In the first option the user directly enters the message which should be encrypted in the output.
