@@ -147,7 +147,7 @@ def user():
 
 
 def fromfile():
-    text = open("C:\\Users\\vinnu\Downloads\\New folder\\vin.txt", "r")
+    text = open("Give the file path from your local disk", "r")
     print("")
     string=text.read()
     print("Original message in the File:\n",string)
